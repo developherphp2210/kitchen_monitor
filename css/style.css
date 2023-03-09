@@ -1,0 +1,149 @@
+:root{
+    box-sizing: border-box;
+
+    --status_1: orange;
+    --status_2: green;
+    --sfondo: blue;
+    --sfondo_header: blue;
+    --testo: white;
+    --size_number: 65px;
+    --max_art: 4;
+    --sfondo_footer: blue;
+}
+
+*,
+::after,
+::before{
+    box-sizing: inherit;
+}
+
+html , body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: var(--sfondo);
+    color: var(--testo);
+    display: grid;
+    grid-template-columns: 70% auto;
+    grid-template-rows: auto 1fr auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    grid-column: 1/3;
+    padding: 5px;
+    background-color: var(--sfondo_header);
+}
+
+main {    
+    padding: 10px;
+    display: flex;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+footer {
+    grid-column: 1/3;
+    font-size: x-large;
+    background-color: var(--sfondo_footer);
+}
+
+.carousel {
+    object-fit: cover;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+aside {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: repeat(var(--max_art),auto);
+    gap: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+@keyframes lampeggio {
+    0%{
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.order {    
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+
+.number_order h1{
+    font-size: var(--size_number);
+    /* transition-property: transform;
+    transition-duration: 10s; */
+}
+
+.transition{
+    
+    animation-name: lampeggio;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    /* transform: scale(1.5); */
+}
+
+.line_bottom {
+    width: 100%;    
+    border-bottom: 1px solid var(--testo);;
+}
+
+.line_top {
+    width: 100%;
+    height: 10px;
+    border-top: 1px solid var(--testo);;
+}
+
+.status_1 {
+    background-color: var(--status_1);
+}
+
+.status_2 {
+    background-color: var(--status_2);    
+}
+
+.box {    
+    border-radius: 10px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pos1 {
+    grid-row: 1/2;
+}
+
+.pos2 {
+    grid-row: 2/3;
+}
+
+.pos3 {
+    grid-row: 3/4;
+}
+
+.pos4 {
+    grid-row: 4/5;
+}

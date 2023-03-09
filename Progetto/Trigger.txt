@@ -1,0 +1,12 @@
+CREATE TRIGGER [dbo].[call_web]
+ON [dbo].[transactions]
+AFTER INSERT   
+   
+AS 
+begin
+  
+   DECLARE @ID_TRANS INTEGER=(SELECT [id] from inserted);
+   declare @numcassa integer=(select [till_id] from inserted);
+
+   insert into dbo.web_call (id_transaction) values(@ID_TRANS)
+end

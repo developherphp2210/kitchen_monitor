@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/02 15:22:19.000.463,=C:\Users\Massimo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/02 15:23:05.000.006,C:\Users\Massimo\OneDrive\Scambio Dati\Progetto\Unit1.pas=C:\Users\Massimo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/02 15:23:05.000.006,C:\Users\Massimo\OneDrive\Scambio Dati\Progetto\Unit1.dfm=C:\Users\Massimo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/02 15:23:14.000.429,C:\Users\Massimo\OneDrive\Scambio Dati\Progetto\Project1.dproj=C:\Users\Massimo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/06 20:41:22.000.020,C:\Users\Massimo\OneDrive\Scambio Dati\Progetto\Service_Ticket.dproj=C:\Users\Massimo\OneDrive\Scambio Dati\Progetto\Project1.dproj</Transaction>
+    <Transaction>2023/03/07 14:30:21.000.797,C:\laragon\www\kitchen_monitor\Progetto\Service_Orders.dproj=C:\laragon\www\kitchen_monitor\Progetto\Service_Ticket.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

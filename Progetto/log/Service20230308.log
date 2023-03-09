@@ -1,0 +1,247 @@
+[ INFO 08/03/2023 11.58.04 ] - 5000
+[ INFO 08/03/2023 12.39.07 ] - 0
+[ INFO 08/03/2023 12.40.43 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023 00:00:01' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.40.43 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 12.40.43 ] - "La Comanda n\u00b0 1 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 12.40.43 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 12.40.43 ] - "La Comanda n\u00b0 2 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 12.40.48 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.40.53 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.40.58 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.03 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.08 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.14 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.19 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.24 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.29 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.34 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.39 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.44 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.49 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.54 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  03:36:10' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.41.54 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 12.41.54 ] - "La Comanda n\u00b0 2 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 12.41.59 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:44' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.04 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:44' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.09 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:44' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.09 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 12.42.10 ] - "La Comanda n\u00b0 1 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 12.42.15 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.20 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.20 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 12.42.20 ] - "La Comanda n\u00b0 2 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 12.42.25 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.30 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.30 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 12.42.30 ] - "La Comanda n\u00b0 1 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 12.42.35 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.40 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.45 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.50 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.42.55 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.43.00 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 12.43.05 ] - select ( sum(quantita) - sum(QtaFatta) ) as prep , nComanda, Updated from Comande where Consegnato=0 and Updated > '03/08/2023  12:41:59' group by nComanda,Updated order by Updated
+[ INFO 08/03/2023 15.52.25 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.25 ] - "La Comanda n\u00b0 4 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.25 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.25 ] - "La Comanda n\u00b0 3 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.25 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.25 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.25 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.25 ] - "La Comanda n\u00b0 5 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.25 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.25 ] - "La Comanda n\u00b0 6 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.25 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.25 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.26 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.26 ] - "La Comanda n\u00b0 1 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.26 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.26 ] - "La Comanda n\u00b0 2 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.26 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.26 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.31 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.31 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.31 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.31 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.36 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.37 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.37 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.37 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.42 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.42 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.42 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.42 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.47 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.47 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.47 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.47 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.52 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.53 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.53 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.53 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.58 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.52.58 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.52.58 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.52.58 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.03 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.03 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.03 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.04 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.09 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.09 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.09 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.09 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.14 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.14 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.14 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.14 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.19 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.19 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.19 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.20 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.25 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.25 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.25 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.25 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.30 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.30 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.30 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.30 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.35 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.36 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.36 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.36 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.41 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.41 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.41 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.41 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.46 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.46 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.46 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.46 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.52 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.52 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.52 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.52 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.57 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.53.57 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.53.57 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.53.57 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.02 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.02 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.02 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.03 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.08 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.08 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.08 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.08 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.13 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.13 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.13 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.14 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.19 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.19 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.19 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.19 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.24 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.24 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.24 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.24 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.30 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.30 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.30 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.30 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.35 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.35 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.35 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.35 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.40 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.40 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.40 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.41 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.46 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.46 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.46 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.46 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.51 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.51 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.51 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.51 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.56 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.54.57 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.54.57 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.54.57 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.02 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.02 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.02 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.02 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.07 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.07 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.07 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.07 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.12 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.13 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.13 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.13 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.18 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.18 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.18 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.18 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.23 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.23 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.23 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.24 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.29 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.29 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.29 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.29 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.34 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.34 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.34 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.34 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.39 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.39 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.39 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.40 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.45 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.45 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.45 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.45 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.50 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.50 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.50 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.50 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.55 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.55.56 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.55.56 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.55.56 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.01 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.01 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.01 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.56.01 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.06 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.06 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.06 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.56.06 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.11 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.12 ] - "La Comanda n\u00b0 7 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.12 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.12 ] - "La Comanda n\u00b0 5 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.12 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.56.12 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.17 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.17 ] - "La Comanda n\u00b0 5 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.17 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.56.17 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.22 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.23 ] - "La Comanda n\u00b0 5 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.23 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.56.23 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.28 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.28 ] - "La Comanda n\u00b0 5 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.28 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.56.28 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.33 ] - CONTROLLO COMANDE DA PREPARARE
+[ INFO 08/03/2023 15.56.33 ] - "La Comanda n\u00b0 5 \u00e8 stata aggiornata correttamente"
+[ INFO 08/03/2023 15.56.33 ] - CONTROLLO COMANDE CONSEGNATE
+[ INFO 08/03/2023 15.56.33 ] - "La Comanda n\u00b0 8 \u00e8 stata aggiornata correttamente"
